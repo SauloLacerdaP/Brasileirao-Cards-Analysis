@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis (EDA) of **yellow and red cards** in the Brazilian Football League (Brasileirão) **2014 - 2024**.  
 
-This project investigates how cards are distributed across seasons, positions, teams, and players, highlighting discipline trends in Brazilian football.
+This project investigates how cards are distributed across seasons, positions, teams, and players, highlighting discipline trends in Brazilian soccer.
 
 ---
 
