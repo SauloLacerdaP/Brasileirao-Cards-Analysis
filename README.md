@@ -20,5 +20,5 @@ This project investigates how cards are distributed across seasons, positions, t
 
 - **Python** 🐍  
 - **Pandas** – data cleaning and aggregation  
-- **Matplotlib** – visualizations  
+- **Matplotlib & Seaborn** – visualizations  
 - **Jupyter Notebook** – interactive analysis  
